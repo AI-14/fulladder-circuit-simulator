@@ -1,0 +1,21 @@
+*** WELCOME TO THE FULL-ADDER SIMULATOR ***
+
+Select an option (1., 2., 3. or 4.):
+(Note: You are required to select Settings first to set up your choices)
+
+1. Settings
+2. Adder
+3. Subtractor
+4. Exit
+Option: 4
+
+You decided to EXIT the program !
+-----------------------SUMMARY REPORT-------------------------
+Your current settings is: 
+Input Stream: No choice
+Output Stream: No choice
+The number of times Settings is changed: 0
+The number of times Adder is used: 0
+The number of times Subtractor is used: 0
+
+**************************************************************

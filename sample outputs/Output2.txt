@@ -1,0 +1,30 @@
+*** WELCOME TO THE FULL-ADDER SIMULATOR ***
+
+Select an option (1., 2., 3. or 4.):
+(Note: You are required to select Settings first to set up your choices)
+
+1. Settings
+2. Adder
+3. Subtractor
+4. Exit
+Option: 1
+
+You selected "Settings" !
+Please select a way of input stream (1. or 2.):
+1. Keyboard
+2. File
+Input Stream: 1
+
+Please select a way of output stream (3. or 4.): 
+3. Monitor
+4. File
+Output Stream: 3
+
+Enter two integers A and B: 
+A: 13
+B: 4
+Enter number of bits: 
+(Make sure that the bits correspond to the integers correctly)
+Number of bits: p
+Error: Input Mismatch in integers and/or number of bits
+Program will terminate now.
