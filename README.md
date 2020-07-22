@@ -11,4 +11,4 @@
    - Download/clone this repository and create a proper project folder where you will extract this repo's contents.
   
 2. Usage
-   - Run ````Main.java```` (src\application).
+   - Run ````SimulatorProject.java```` (src\SimulatorProject.java).
