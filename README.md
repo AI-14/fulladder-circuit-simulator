@@ -1,5 +1,5 @@
 # FullAdder Circuit Simulator
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-5181b8?style=flat&logo=java&logoColor=white)
   
   Course Project: ICS 102/183 - Introduction to Computing I
   
