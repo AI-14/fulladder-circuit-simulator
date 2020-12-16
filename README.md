@@ -14,3 +14,6 @@
   
 2. Usage
    - Run ````SimulatorProject.java```` (src\SimulatorProject.java).
+
+## Project Partner/Contributor
+   - AbdurRahman Siddiqui
