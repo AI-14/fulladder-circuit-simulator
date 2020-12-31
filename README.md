@@ -16,4 +16,4 @@
    - Run ````SimulatorProject.java```` (src\SimulatorProject.java).
 
 ## Project Partner/Contributor
-   - AbdurRahman Siddiqui
+   - [AbdurRahman Siddiqui](https://github.com/AbdurRahmanSiddiqui)
