@@ -3,7 +3,7 @@
   
 Course Project: ICS 102/183 - Introduction to Computing I
 
-# Table of contents
+## Table of contents
 1. [Description](#description)
 2. [Installation and Usage](#installation-usage)
 3. [Team Member](#team-member)
