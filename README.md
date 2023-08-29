@@ -15,6 +15,7 @@ A text-based simulation of the operation of a n-bit binary adder and subtractor 
   - `java >= 1.8`
 - `git clone https://github.com/AI-14/fulladder-circuit-simulator.git` - clones the repository
 - `cd fulladder-circuit-simulator`
+- Run `src\SimulatorProject.java`
 
 ## Team Member <a name="team-member"></a>
 - [AbdurRahman Siddiqui](https://github.com/AbdurRahmanSiddiqui)
